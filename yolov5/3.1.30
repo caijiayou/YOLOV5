@@ -1,0 +1,10 @@
+Collecting gitpython
+  Downloading GitPython-3.1.18-py3-none-any.whl (170 kB)
+Collecting gitdb<5,>=4.0.1
+  Downloading gitdb-4.0.9-py3-none-any.whl (63 kB)
+Collecting typing-extensions>=3.7.4.0
+  Downloading typing_extensions-4.1.1-py3-none-any.whl (26 kB)
+Collecting smmap<6,>=3.0.1
+  Downloading smmap-5.0.0-py3-none-any.whl (24 kB)
+Installing collected packages: smmap, typing-extensions, gitdb, gitpython
+Successfully installed gitdb-4.0.9 gitpython-3.1.18 smmap-5.0.0 typing-extensions-4.1.1
